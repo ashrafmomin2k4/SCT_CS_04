@@ -16,3 +16,4 @@ This app logs all key presses made inside its own text box â€” not system-wide â
 ## Run the script:
 
 - python app_key_logger.py
+
